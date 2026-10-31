@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Aymane Laakel, Software Developer and AI Builder">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#060D1D"/><stop offset=".56" stop-color="#0C1734"/><stop offset="1" stop-color="#0D1F3D"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#4FA8FF"/><stop offset="1" stop-color="#8A6BFF"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#2355CC" stop-opacity=".36"/><stop offset="1" stop-color="#2355CC" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#50709B" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="920" cy="170" r="290" fill="url(#glow)"/>
+<path d="M0 311 C180 250 280 345 470 305 S800 245 1200 290" stroke="#3F7FFF" opacity=".22" stroke-width="2" fill="none"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".85"><path d="M916 70L1054 148L916 226L778 148Z"/><path d="M916 104L1024 166L916 228L808 166Z" opacity=".35"/><circle cx="916" cy="149" r="116" stroke-dasharray="7 15" opacity=".45"/></g>
+<g font-family="Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#8FB8FF" opacity=".85"><text x="851" y="155">&lt;/&gt;</text><text x="956" y="194">{ AI }</text><text x="783" y="232">01</text></g>
+<rect x="66" y="57" width="204" height="35" rx="17.5" fill="#182E57" stroke="#3F74BB" stroke-opacity=".7"/>
+<circle cx="86" cy="74.5" r="5" fill="#67E8B6"/><text x="102" y="80" fill="#C9E4FF" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">OPEN TO WORK</text>
+<text x="65" y="162" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="57" font-weight="800" letter-spacing="-1">AYMANE LAAKEL</text>
+<rect x="66" y="181" width="111" height="5" rx="3" fill="url(#accent)"/>
+<text x="66" y="226" fill="#9BCBFF" font-family="Arial, sans-serif" font-size="25" font-weight="600">Software Developer  /  AI Builder</text>
+<text x="66" y="269" fill="#B9C9E1" font-family="Arial, sans-serif" font-size="18">Building useful apps, intelligent systems &amp; better experiences.</text>
+<text x="66" y="322" fill="#8097BD" font-family="Consolas, monospace" font-size="15">TANGIER, MOROCCO  ·  FLUTTER  ·  PYTHON  ·  LANGCHAIN</text>
+</svg>

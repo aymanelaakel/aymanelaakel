@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 165" role="img" aria-label="Tech stack: Python Dart Flutter JavaScript React Java FastAPI Firebase Cloudflare Docker LangChain Groq">
+<rect width="1080" height="165" rx="18" fill="#0C1427"/>
+<g font-family="Arial, sans-serif" font-size="21" font-weight="700" text-anchor="middle">
+<g fill="#152847" stroke="#305A88"><rect x="16" y="17" width="160" height="58" rx="12"/><rect x="194" y="17" width="160" height="58" rx="12"/><rect x="372" y="17" width="160" height="58" rx="12"/><rect x="550" y="17" width="160" height="58" rx="12"/><rect x="728" y="17" width="160" height="58" rx="12"/><rect x="906" y="17" width="158" height="58" rx="12"/>
+<rect x="16" y="91" width="160" height="58" rx="12"/><rect x="194" y="91" width="160" height="58" rx="12"/><rect x="372" y="91" width="160" height="58" rx="12"/><rect x="550" y="91" width="160" height="58" rx="12"/><rect x="728" y="91" width="160" height="58" rx="12"/><rect x="906" y="91" width="158" height="58" rx="12"/></g>
+<g fill="#DAE8FF"><text x="96" y="54">Python</text><text x="274" y="54">Dart</text><text x="452" y="54">Flutter</text><text x="630" y="54">JavaScript</text><text x="808" y="54">React</text><text x="985" y="54">Java</text>
+<text x="96" y="128">FastAPI</text><text x="274" y="128">Firebase</text><text x="452" y="128">Cloudflare</text><text x="630" y="128">Docker</text><text x="808" y="128">LangChain</text><text x="985" y="128">Groq</text></g></g>
+</svg>
