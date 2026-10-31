@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hey, I'm Aymane Laakel 👋
@@ -9,8 +8,11 @@
 
 📍 Tangier, Morocco &nbsp; • &nbsp; 🎓 Computer Engineering & Software Development
 
+<a href="https://aymane-portfolio-gamma.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my live portfolio" />
+</a>
 <a href="https://github.com/aymanelaakel?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+  <img src="https://img.shields.io/badge/Explore_My_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
 </a>
 
 </div>
@@ -49,17 +51,25 @@ I enjoy turning ideas into functional applications, from cross-platform experien
 
 **AI & Intelligent Systems**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4338CA?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white" alt="LangSmith" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/RAG-4338CA?style=flat-square&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square&logoColor=white" alt="FAISS" />
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio — Live Website
+
+A responsive portfolio showcasing my skills, education, and software projects with a modern interface.
+
+`React` `Vite` `JavaScript` `Vercel`
+
+[🌐 Live Website](https://aymane-portfolio-gamma.vercel.app/) · [View Repository](https://github.com/aymanelaakel/aymane-portfolio)
 
 ### 🗺️ TangierGuide — Smart City & AI Travel Assistant
 
@@ -110,6 +120,7 @@ A desktop application for managing books, members, borrowing records, and librar
 
 **Always interested in learning, building, and collaborating on meaningful projects.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://aymane-portfolio-gamma.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-aymanelaakel-181717?style=for-the-badge&logo=github)](https://github.com/aymanelaakel)
 
 <sub>Built with curiosity, improved through practice.</sub>
