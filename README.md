@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aymane Laakel | Software Developer and AI Builder" />
+<img src="./hero.svg" width="100%" alt="Aymane Laakel | Software Developer and AI Builder" />
 
 <br />
 
@@ -26,7 +26,7 @@ I build **mobile/web applications**, experiment with **AI agents and RAG**, and 
 ### ⚡ Tech I use
 
 <div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Python, Dart, Flutter, JavaScript, React, Java, FastAPI, Firebase, Cloudflare, Docker, LangChain, Groq" />
+  <img src="./stack.svg" width="100%" alt="Python, Dart, Flutter, JavaScript, React, Java, FastAPI, Firebase, Cloudflare, Docker, LangChain, Groq" />
 </div>
 
 ### 🚀 Featured builds
