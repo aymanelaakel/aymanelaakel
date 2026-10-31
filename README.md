@@ -1,104 +1,117 @@
+
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Aymane Laakel | Software Developer and AI Builder" />
+# Hey, I'm Aymane Laakel 👋
 
-<br />
+### Software Developer | Flutter & Python | AI Enthusiast
 
-**Turning ideas into real-world applications — from mobile experiences to AI-powered tools.**
+**I build real-world applications and explore how AI can make them smarter.**
 
-<a href="https://github.com/aymanelaakel?tab=repositories">Projects</a> · <a href="https://github.com/aymanelaakel">GitHub</a>
+📍 Tangier, Morocco &nbsp; • &nbsp; 🎓 Computer Engineering & Software Development
+
+<a href="https://github.com/aymanelaakel?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+</a>
 
 </div>
 
 ---
 
-### 👋 About me
+## 👨‍💻 About Me
 
-I'm **Aymane**, a software developer based in **Tangier, Morocco**, with a **Professional Bachelor's degree in Computer Engineering & Software Development**.
+I'm a software developer with a **Professional Bachelor's degree in Computer Engineering & Software Development**.
 
-I build **mobile/web applications**, experiment with **AI agents and RAG**, and enjoy connecting reliable backends with clean user experiences.
+I enjoy turning ideas into functional applications, from cross-platform experiences to AI-powered systems. My work focuses on building intuitive interfaces, reliable backends, and intelligent solutions.
 
-- 🔭 Working on practical software and AI-driven projects
-- 🧠 Exploring **LangChain, RAG, Groq, and cloud deployment**
-- 💻 Main interests: **Flutter, Python, APIs, and Firebase**
-- 🤝 Open to **software development opportunities and collaboration**
+- 💻 Building applications with **Flutter, Python, and JavaScript**
+- 🤖 Exploring **AI Agents, RAG, and Large Language Models**
+- ☁️ Working with **Firebase, Cloudflare, and Docker**
+- 🚀 Interested in **software engineering and applied AI**
+- 🤝 Open to **new opportunities and collaborations**
 
-### ⚡ Tech I use
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./stack.svg" width="100%" alt="Python, Dart, Flutter, JavaScript, React, Java, FastAPI, Firebase, Cloudflare, Docker, LangChain, Groq" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,flutter,react,fastapi&theme=dark" alt="Languages and frameworks" />
+
+<br/><br/>
+
+**Databases, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,docker,cloudflare,git,github,vscode&theme=dark" alt="Databases cloud and tools" />
+
+<br/><br/>
+
+**AI & Intelligent Systems**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-4338CA?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square&logoColor=white" />
+
 </div>
 
-### 🚀 Featured builds
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
-#### 🧭 [TangierGuide](https://github.com/aymanelaakel/TangierGuide)
+### 🗺️ TangierGuide — Smart City & AI Travel Assistant
 
-Smart city guide with local discovery, transport information, and an AI travel assistant.
+A cross-platform tourism application designed to help visitors explore Tangier through interactive maps, local transport information, and an AI-powered travel assistant.
 
-`Flutter` `Firebase` `Mapbox` `Cloudflare`
+`Flutter` `Firebase` `Mapbox` `Cloudflare Workers` `Groq`
 
-</td>
-<td width="50%" valign="top">
+### 📄 PDF RAG Assistant — AI Document Intelligence
 
-#### 📄 PDF RAG Assistant
+An intelligent document assistant that allows users to upload PDF files and ask questions using retrieval-augmented generation.
 
-Ask questions about PDF documents using retrieval-augmented generation.
+`Python` `RAG` `FAISS` `Groq`
 
-`Python` `RAG` `Groq` `FAISS`
+[View Repository](https://github.com/aymanelaakel/PDF-RAG-Groq)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🧠 AI CV Analyzer — Intelligent Resume Analysis
 
-#### 🧠 [AI CV Analyzer](https://github.com/aymanelaakel/LangchainPr-CV-Analyzer)
-
-Analyze résumés and generate actionable career feedback with LLMs.
+An AI-powered application that analyzes resumes, identifies strengths and weaknesses, and provides personalized career recommendations.
 
 `Python` `Streamlit` `LangChain` `Groq`
 
-</td>
-<td width="50%" valign="top">
+### 🔎 AI Job Search Agent — Automated Job Discovery
 
-#### 🔎 [AI Job Search Agent](https://github.com/aymanelaakel/LangChain-AI-Job-Agent)
-
-An agent workflow for discovering and reviewing relevant job opportunities.
+An AI agent that searches for relevant job opportunities and organizes results using LLM reasoning and web search tools.
 
 `Python` `LangChain` `Tavily` `Groq`
 
-</td>
-</tr>
-<tr><td width="50%" valign="top">
+### 📚 Library Management System
 
-#### 📚 [Library Management System](https://github.com/aymanelaakel/LibraryManagementSystem)
+A desktop application for managing books, members, borrowing records, and library operations.
 
-Desktop system for managing books, members, and borrowing workflows.
+`Java` `JavaFX` `SQLite`
 
-`JavaFX` `SQLite`
+---
 
-</td><td width="50%" valign="top">
+## 🌱 Currently Exploring
 
-#### 🛠️ [Generative UI](https://github.com/aymanelaakel/Generative-UI)
+- Building more capable AI agents and RAG applications
+- Improving software architecture and API development
+- Developing cross-platform applications
+- Deploying applications with Docker and cloud services
 
-Experiments in interactive, AI-assisted interfaces.
-
-`Python` `AI` `UI`
-
-</td></tr>
-</table>
-
-> **Note:** Some repositories are private. Project links will only be visible to visitors once their repositories are public.
-
-### 📍 Let's connect
-
-**Based in Tangier, Morocco** · Interested in software engineering, AI applications, and thoughtful product development.
+---
 
 <div align="center">
 
-<sub>Build • Learn • Improve • Repeat</sub>
+### Let's Connect
+
+**Always interested in learning, building, and collaborating on meaningful projects.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-aymanelaakel-181717?style=for-the-badge&logo=github)](https://github.com/aymanelaakel)
+
+<sub>Built with curiosity, improved through practice.</sub>
 
 </div>
