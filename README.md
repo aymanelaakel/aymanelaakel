@@ -1,33 +1,6 @@
-
 <p align="center">
-  <img
-    src="assets/stars-bg.jpg"
-    alt="Aymane Laakel - Developer Banner"
-    width="100%"
-  />
+  <img src="assets/banner.png" alt="Aymane Laakel - Developer Banner" width="100%" style="border-radius: 12px;" />
 </p>
-
-<div align="center">
-
-# Hey, I'm Aymane Laakel 👋
-
-### Software Developer | Flutter & Python | AI Enthusiast
-
-**I build real-world applications and explore how AI can make them smarter.**
-
-📍 Tangier, Morocco &nbsp; • &nbsp; 🎓 Computer Engineering & Software Development
-
-<a href="https://aymane-portfolio-gamma.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my live portfolio" />
-</a>
-<a href="https://github.com/aymanelaakel?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
-</a>
-
-</div>
-
----
-
 
 ---
 
