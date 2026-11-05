@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img
+    src="assets/stars-bg.jpg"
+    alt="Aymane Laakel - Developer Banner"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 # Hey, I'm Aymane Laakel 👋
@@ -16,6 +25,9 @@
 </a>
 
 </div>
+
+---
+
 
 ---
 
